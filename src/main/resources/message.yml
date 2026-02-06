@@ -1,0 +1,3 @@
+prefix: '&6[&e领地&6]&f'
+createMax: '&c领地已达上限, 当前最大上限为: &e{0}'
+reload: '&a重载成功'

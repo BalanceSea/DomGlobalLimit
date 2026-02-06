@@ -1,0 +1,11 @@
+#调试模式
+#生产环境中请勿开启
+Debug: false
+
+
+#权限组设置
+permissions:
+  #权限名 : 领地数量
+  #如果有多个权限则按照数量最多的生效
+  dominion.limit.default: 10
+  dominion.limit.vip: 15

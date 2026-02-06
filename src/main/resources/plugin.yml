@@ -1,0 +1,12 @@
+name: DomGlobalLimit
+version: '1.0-SNAPSHOT'
+main: com.BalanceSea.domGlobalLimit.DomGlobalLimit
+api-version: '1.20'
+description: Dom全局领地限制
+depend:
+  - 'Dominion'
+commands:
+  DomGlobalLimit:
+    aliases:
+      - dgl
+      - DomLimit
